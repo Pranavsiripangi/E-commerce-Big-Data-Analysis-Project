@@ -17,7 +17,7 @@
 Let me know if you want to include this summary in your `README.md`.
  ## Technologies Used- Apache Spark 3.4.0- PySpark- Python (Pandas, Matplotlib, Seaborn)- Google Cola
 
-<img width="910" height="663" alt="Image" src="https://github.com/user-attachments/assets/f448692d-5cb9-49c5-bec4-d00595bbe6ad" />
+
 <img width="1101" height="461" alt="Image" src="https://github.com/user-attachments/assets/e3f581bd-159a-4c7a-b9fa-b5acd6d3a9c2" />
 <img width="1527" height="291" alt="Image" src="https://github.com/user-attachments/assets/779c19fa-938b-4898-b05d-28e0a05a1744" />
 <img width="1403" height="681" alt="Image" src="https://github.com/user-attachments/assets/86dc2737-dbfd-4ca9-8786-7b5c8ec8a971" />
